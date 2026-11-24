@@ -1,0 +1,10 @@
+# 本机 Claude Code hook 审计日志：仅记录本机命令与本地绝对路径，无仓库价值
+.claude/hooks/audit.log
+
+# 早期草稿：与「热门Agent系统架构对比研究报告.md」内容重复
+xx热门Agent系统架构对比研究报告.md
+
+# 系统噪声
+Thumbs.db
+Desktop.ini
+.DS_Store
